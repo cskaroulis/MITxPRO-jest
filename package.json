@@ -1,0 +1,22 @@
+{
+  "name": "mitxpro-jest",
+  "version": "1.0.0",
+  "description": "learn to use jest",
+  "main": "main.js",
+  "scripts": {
+    "test": "clear; jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cskaroulis/MITxPRO-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cskaroulis/MITxPRO-jest/issues"
+  },
+  "homepage": "https://github.com/cskaroulis/MITxPRO-jest#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
