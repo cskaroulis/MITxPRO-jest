@@ -15,7 +15,7 @@ describe("Greet function", () => {
     expect(greet(["Jose", "Pep"])).toBe("Hello, Jose, Pep");
   });
   it("should handle multiple names", () => {
-    expect(greet(["Alex, Arsene, Jose, Zidane"])).toBe(
+    expect(greet(["Alex", "Arsene", "Jose", "Zidane"])).toBe(
       "Hello, Alex, Arsene, Jose, Zidane"
     );
   });
